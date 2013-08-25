@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+shift+8"], "command": "toggle_white_space" }
+]
